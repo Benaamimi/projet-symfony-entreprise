@@ -22,6 +22,7 @@ créer un fichier Procfile a la racine et y mettre cette ligne :
 
 postdeploy: php bin/console doctrine:migrations:migrate
 
+
 maintenant les configurations de notre app sont faite plus qu'a re push l'application
 
 git add .
