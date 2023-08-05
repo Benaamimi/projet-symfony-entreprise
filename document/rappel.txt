@@ -71,5 +71,5 @@ dans twig je mais ça pour afficher le formulaire
         }
     }
 
-    7-
+    7- Pour SUPPRIMER une PROPRIETE dans une Entity, il faut supprimer à la main la propriété dans le dossier Entity, supprimer le GETTER et SETTER et "fermer la commande dans TERMINAL". Ouvrir une autre commande, se mettre sur l’Entity en question et ajouter une nouvelle propriété
 
